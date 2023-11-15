@@ -1,6 +1,5 @@
-# How-Do-you-Take-your-Coffee-Cafe-Shop-Data-Analysis
+# How-Do-you-Take-your-Coffee? -Cafe-Shop-Data-Analysis with Excel 
 
- How-do-you-Take-your-Coffee?  ---Data-Analysis-of-Cafe-Shop-Data
 ![image](https://github.com/insights000/How-do-you-Take-your-Coffee---Data-Analysis-of-Cafe-Shop-Data/assets/150028138/894c88f3-e2de-4d31-8360-8f5c82ee6ae2)
 
 How do you take your coffee? Well, in this data analysis, we went through the processes of scrubbing the data clean, then producing visualisations in Microsoft Excel to show the relationship between different types of data, to show you how others might, regarding their favourite cafes. The dataset used in this task is attached, and the completed data set and three visualisations.
@@ -10,8 +9,6 @@ How do you take your coffee? Well, in this data analysis, we went through the pr
 **Data Cleaning**
 The first step to this process was scrubbing the data on Microsoft Excel. The data that was present had missing values and it was important that all the columns adhered to the right data type. The scenario for this task was that a company called Caffiene Form was company that sells cups to coffee shops thorugh their website and they were tracking their stores through reviews to help market their product better. The columsn consisted of Region, Place Name, Place Type, Rating, Review, Price, Delivery Option, Dinne in Option and Take Out Option. Each column needed to be checked for the right data type and the missing values replaced with "Unknown", or "$" equating ot the number of prices, as well as the negatives replaced by Falses. Thus after a bit  of cleaning using the find and replae method within Excel, we turned this data set:
 
-
-![image](https://github.com/insights000/How-do-you-Take-your-Coffee---Data-Analysis-of-Cafe-Shop-Data/assets/150028138/858cb773-c1d8-433e-8f17-0c07db38eee6)
 
 
 **Figure 1:** There were characters in the names of the coffee shops that would not be understood in the data , so after a bit of manual cleaning we manage to clear the coffee shop names, as they were not legible in the English language
@@ -36,6 +33,8 @@ Another visualisation was created to show the reviews number by the number of co
 
 ![image](https://github.com/insights000/How-do-you-Take-your-Coffee---Data-Analysis-of-Cafe-Shop-Data/assets/150028138/6370d607-9da1-460f-8a25-3af66cc46b7c)
 
+
+You can see the attached files to experiment, make and create your own visualisations, the possibilities are endless, now I am going to have a cup of coffee.
 
 
 
